@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.188.0",
+    "aws-sdk": "^2.1069.0",
     "body-parser": "^1.17.2",
     "concurrently": "^3.5.0",
     "cookie-session": "^2.0.0-beta.2",
@@ -34,6 +34,6 @@
     "path-parser": "^2.0.2",
     "puppeteer": "^1.0.0",
     "redis": "^4.0.3",
-    "uuid": "^3.2.1"
+    "uuid": "^3.4.0"
   }
 }
